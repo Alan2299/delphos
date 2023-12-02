@@ -44,7 +44,7 @@ function createData(rfc, razon, tel, email, ag) {
 }
 
 const rows = [
-  createData('CURA991022UX1', 'ALAN DE JESUS CRUZ RUIZ', 9611821112, 'alan-cruz99@hotmail.com', 'Paulina Alejandra Juarez Lopez'),
+  createData('RLM930604OL6', 'REPRESENTACIONES LABIN SA DE CV', 52002500, 'ventas@labin.com.mx', 'Filiberto Hernandez Romero'),
   createData('China', 'CN', 1403500365, 9596961),
   createData('Italy', 'IT', 60483973, 301340),
   createData('United States', 'US', 327167434, 9833520),
